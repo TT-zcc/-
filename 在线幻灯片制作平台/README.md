@@ -1,14 +1,3 @@
-# Assessment 3 - Vanilla JS: Qanda
-
-1. Background & Motivation
-2. The Task
-3. Getting Started
-4. Constraints & Assumptions
-5. Marking Criteria
-6. Originality of Work
-7. Submission
-8. Late Submission Policy
-
 ## 0. Change Log
 
 * 11/03: Fixed up due date / Moved `insertAdjacentHTML from able to use to prohibited`
@@ -18,7 +7,7 @@
 * 18/03: Clarified in relation to what to do when there are comments on the thread - a very minor update
 * 25/03: Clarified that there isn't a way to click on a user's name from a like
 
-## 1. Before you start
+## 1. start
 
 ### 1.1. Background & Motivation
 
@@ -462,44 +451,6 @@ Please note: When we test your UI we will use a pre-loaded database JSON that al
 </table>
 
 Bonus marks are applicable beyond this mark. Please see section `2.8`.
-
-## 6. Originality of Work
-
-The work you submit must be your own work.  Submission of work partially or completely derived from
-any other person or jointly written with any other person is not permitted.
-
-The penalties for such an offence may include negative marks, automatic failure of the course and
-possibly other academic discipline. Assignment submissions will be examined both automatically and
-manually for such submissions.
-
-Relevant scholarship authorities will be informed if students holding scholarships are involved in
-an incident of plagiarism or other misconduct.
-
-Do not provide or show your assignment work to any other person &mdash; apart from the teaching
-staff of COMP6080.
-
-If you knowingly provide or show your assignment work to another person for any reason, and work
-derived from it is submitted, you may be penalized, even if the work was submitted without your
-knowledge or consent.  This may apply even if your work is submitted by a third party unknown to
-you.
-
-Every time you make commits or pushes on this repository, you are acknowledging that the work you
-submit is your own work (as described above).
-
-Note you will not be penalized if your work has the potential to be taken without your consent or
-knowledge.
-
-**PLEASE NOTE: To ensure the originality of your work, we are requiring that you regularly commit your work to git throughout the weeks this assignment has been released. Regular and small commits (essentially at least once a day that you work on the assignment) are critical. Failures to commit regularly (or at minimum, failures to commit in small chunks) may results in either penalties of up to 20% of result in allegations of plagiarism.**
-
-## 8. Submission
-
-This assignment is due *Friday 29th March, 10pm*.
-
-To submit your assignment, you must you've pushed all of your code to your GitLab master branch. You can check if you've done this properly by seeing what code is on the GitLab site on your master branch.
- 
-We will collect the latest work on your master branch of GitLab at the time of submission.
-
-It is your responsibiltiy to ensure that your code can run successfully when cloned fresh from Gitlab.
 
 ## 8. Late Submission Policy
 
